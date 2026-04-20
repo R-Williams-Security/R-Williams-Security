@@ -3,7 +3,7 @@
 Cybersecurity Specialist | Detection Engineering & SOAR Automation
 
 ## 🚀 Key Achievements & Contributions
-* **[Official Wazuh Integration (Merged)](https://github.com/wazuh/integrations/pull/75)**: Engineered a production-grade SOAR response for Kerberoasting (MITRE T1558.003) by detecting RC4 (0x17) encryption downgrades.
+* **[Official Wazuh Integration (Merged)](https://github.com/wazuh/integrations/tree/main/integrations/kerberoast_mitigation)**: Engineered a production-grade SOAR response for Kerberoasting (MITRE T1558.003) by detecting RC4 (0x17) encryption downgrades.
 * **[Active Directory SOAR Lab](https://github.com/R-Williams-Security/Kerberoast-Detection-Lab)**: Engineered a full Attack → Detect → Respond pipeline featuring Sysmon v15.15 and Wazuh Cloud.
 
 ## 🛠️ Technical Arsenal
