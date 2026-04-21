@@ -13,5 +13,6 @@ Cybersecurity Specialist | Detection Engineering & SOAR Automation
 * **Frameworks:** MITRE ATT&CK (Credential Access T1558.003)
 
 ## 📫 Connect with Me
-* **Portfolio:** [williamsransom-portfolio](https://sites.google.com/view/williamsransom-portfolio)
+* **Portfolio:** [R-Williams-Security-portfolio](https://sites.google.com/view/williamsransom-portfolio)
+* **LinkedIn:** [R-Williams-Security](https://www.linkedin.com/in/R-Williams-Security/)
 * **Email:** williamsransom4@gmail.com
